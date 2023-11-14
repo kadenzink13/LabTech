@@ -9,5 +9,7 @@ int main() {
     cout << "Directing to Input Module" << endl;
     Input test;
     test.Gradation();
+    //CHECK
+    
     return 0;
 }
